@@ -11,7 +11,7 @@
 
 ---
 
-![GoIndex](https://github.com/chnms/goindexbackup/master/themes/logo.png)  
+！[GoIndex]（https://raw.githubusercontent.com/chnms/goindexbackup/master/themes/logo.png）  
   
 GoIndex  
 ====  
