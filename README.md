@@ -7,11 +7,11 @@
 
 ### 另外我发现 goindex 现在的版本可以看 GD 快捷方式的文件了，这样就可以把别人共享的文件直接创建快捷方式，在自己的网页看，非常 nice 。
 
-PS：以下内容为原内容。
+
 
 ---
 
-![GoIndex](https://raw.githubusercontent.com/chnms/goindexbackup/master/themes/logo.png)  
+![GoIndex](https://github.com/chnms/goindexbackup/master/themes/logo.png)  
   
 GoIndex  
 ====  
